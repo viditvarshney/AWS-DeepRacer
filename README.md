@@ -1,5 +1,5 @@
+![aws](https://user-images.githubusercontent.com/34159717/64080396-5d011180-cd11-11e9-8320-99a5619af9ce.png)
 
-![AWS DeepRacer](https://media.giphy.com/media/Y087U54xBmbgve0G5h/giphy.gif)
 
 # AWS-DeepRacer
 AWS DeepRacer is the fastest way to get rolling with machine learning, literally. Get hands-on with a fully autonomous 1/18th scale race car driven by reinforcement learning, 3D racing simulator, and global racing league. 
@@ -22,7 +22,9 @@ Tech used :
 
 ***
 
-![aws](https://user-images.githubusercontent.com/34159717/64080396-5d011180-cd11-11e9-8320-99a5619af9ce.png)
+![AWS DeepRacer](https://media.giphy.com/media/Y087U54xBmbgve0G5h/giphy.gif)
+
+
 
 ***
 ### Contact
