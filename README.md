@@ -22,7 +22,7 @@ Tech used :
 
 ***
 
-![aws](https://imgur.com/X5M279r)
+![aws](https://user-images.githubusercontent.com/34159717/64080396-5d011180-cd11-11e9-8320-99a5619af9ce.png)
 
 ***
 ### Contact
