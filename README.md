@@ -11,7 +11,7 @@ I Learned So much from this practicle Work.
 
 ***
 
-> Main model for which i worked a lot is [Model7]()
+> Main model for which i worked a lot is [Model7](https://github.com/viditvarshney/AWS-DeepRacer/blob/master/Models/Model7/reward.py)
 
 ***
 
